@@ -9,3 +9,9 @@ nav:
 repo_url: https://github.com/constracktor/sse-mkdocs-exercise
 
 site_author: Alexander Strack
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
