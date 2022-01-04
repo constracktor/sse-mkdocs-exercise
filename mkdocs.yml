@@ -7,4 +7,5 @@ nav:
       - Getting Started: 'how-to.md'
 
 repo_url: https://github.com/constracktor/sse-mkdocs-exercise
-edit_uri: edit/main/docs/
+
+site_author: Alexander Strack
